@@ -1,0 +1,66 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	min-width: 1200px;
+	background-color: #ccc;
+}
+.content {
+	color: #fff;
+}
+a {
+	text-decoration: none;
+	color: #fff;
+}
+i {
+	font-style: normal;
+}
+.w {
+	width: 1200px;
+	margin: 0 auto;
+}
+h1 {
+	text-align: center;
+	line-height: 129px;
+}
+h1 i {
+	font-size: 50px;
+	margin-right: 10px;
+	font-weight: 200;
+	color: #e34785;
+}
+.shortCut {
+	width: 100%;
+}
+.current {
+	color: #ee3985;
+	font-weight: 700;
+}
+.shortCut ul {
+	list-style: none;
+	overflow: hidden;
+	background-color: #222;
+	line-height: 52px;
+	font-size: 20px;
+}
+.shortCut li {
+	float: left;
+	width: 90px;
+	text-align: center;
+}
+.clothes {
+	width: 1072px;
+	margin: 50px auto;
+}
+
+.clothes img {
+	width: 210px;
+	height: 315px;
+	border-radius: 5px;
+	border: 1px solid #999;
+	box-shadow: 0 0 3px #999;
+	margin-right: 50px;
+}
+
